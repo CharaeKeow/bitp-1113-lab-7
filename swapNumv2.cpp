@@ -2,7 +2,6 @@
 // Now I see that with pass by ref, we can retain the value altered by the function.
 // Like for this case, the value of the swapped pair are retained after the function call.
 
-#include "stdafx.h"
 #include <iostream>
 #include <string>
 using namespace std;
